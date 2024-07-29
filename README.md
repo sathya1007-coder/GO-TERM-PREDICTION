@@ -22,7 +22,7 @@ Usage:
 
 Getting Started
 Clone the repository:
-git clone https://github.com/yourusername/protein-function-prediction.git
+git clone https://github.com/sathya1007-coder/GO-TERM-PREDICTION.git
 cd protein-function-prediction
 
 Install the necessary dependencies:
