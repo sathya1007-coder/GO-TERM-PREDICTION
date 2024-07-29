@@ -47,7 +47,7 @@ Evaluate the model performance using the evaluation scripts.
 
 Author:
 
-Sathya Narayanan - Bioinformatics Specialist
+Sathya Narayanan - Bioinformatician
 
 Contact:
 
