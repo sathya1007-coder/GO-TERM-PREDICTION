@@ -1,13 +1,12 @@
 # GO-TERM-PREDICTION
 
-****Overview:****
-
+## ****Overview:****
 This repository contains the code and resources for predicting protein functions using advanced deep learning techniques and computational methods. Our approach addresses the limitations of current structure prediction methods by leveraging machine learning models and feature engineering to accurately annotate protein functions based on the Gene Ontology classification.
 
 ![inbox_1313949_f9726a776920fc16813d021068259a8e_ex (3)](https://github.com/user-attachments/assets/fc1857e9-06aa-40dc-9557-2dea3144a74f)
 
 
-****Contents:****
+## ****Contents:****
 
 **1. ProtBert_Embeddings.py:** Generates embeddings for protein sequences using the ProtBERT model.
 
@@ -24,11 +23,11 @@ This repository contains the code and resources for predicting protein functions
 **7. ensemble2.py:** Combines predictions from multiple models to create an ensemble model for improved accuracy.
 
 
-**The tabular features are extracted using the **iFeature package [https://doi.org/10.1093/nar/gkac351](url). GitHub link: [https://github.com/Superzchen/iFeature](url).**********
+## **The tabular features are extracted using the **iFeature package [https://doi.org/10.1093/nar/gkac351](url). GitHub link: [https://github.com/Superzchen/iFeature](url).**********
 
 
 
-****Usage:****
+## ****Usage:****
 
 **1. Data Extraction:** Extract multiple Gene Ontology (GO) terms for each protein from the GOA database. Organize them by associating each protein ID with its corresponding list of GO terms.
 
@@ -40,17 +39,17 @@ This repository contains the code and resources for predicting protein functions
 
 
 
-****Getting Started****
+### ****Getting Started****
 
 **Clone the repository:**
 
 git clone:** [https://github.com/sathya1007-coder/GO-TERM-PREDICTION.git](url)**
 
-** `#ffffff`cd protein-function-prediction**
+**`cd protein-function-prediction`**
 
-** `#ffffff`Install the necessary dependencies:**
+**Install the necessary dependencies:**
 
-** `#ffffff`pip install -r requirements.txt**
+**`pip install -r requirements.txt`**
 
 **i. Run the feature extraction scripts to generate embeddings from protein sequences.
 
@@ -59,10 +58,10 @@ ii Train the machine learning models using the provided training scripts.
 iii Evaluate the model performance using the evaluation scripts.**
 
 
-Author:
+## Author:
 
 **Sathya Narayanan - Bioinformatician**
 
-**Contact:**
+## **Contact:**
 
 For any inquiries or collaboration opportunities, please reach out to me via[ officemailsathya@gmail.com](url).
