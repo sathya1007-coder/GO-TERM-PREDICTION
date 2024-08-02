@@ -23,7 +23,7 @@ Contents:
 
 -- ensemble2.py: Combines predictions from multiple models to create an ensemble model for improved accuracy.
 
-The tabular features are extracted using the iFeature package (DOI:10.1093/nar/gkac351). GitHub link: iFeature.
+The tabular features are extracted using the iFeature package ([DOI:10.1093/nar/gkac351](url)). GitHub link: [iFeature](url).
 
 
 
@@ -41,7 +41,7 @@ Getting Started
 
 Clone the repository:
 
-git clone:** https://github.com/sathya1007-coder/GO-TERM-PREDICTION.git**
+git clone:** [https://github.com/sathya1007-coder/GO-TERM-PREDICTION.git](url)**
 
 **cd protein-function-prediction**
 
