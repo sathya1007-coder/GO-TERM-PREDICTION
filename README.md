@@ -9,20 +9,21 @@ This repository contains the code and resources for predicting protein functions
 
 Contents:
 
-ProtBert_Embeddings.py: Generates embeddings for protein sequences using the ProtBERT model.
+-- ProtBert_Embeddings.py: Generates embeddings for protein sequences using the ProtBERT model.
 
-protT5_Embeddings.py: Generates embeddings using the ProtT5 model.
+-- protT5_Embeddings.py: Generates embeddings using the ProtT5 model.
 
-seqvec_embedder.py: Produces embeddings from protein sequences using SeqVec.
+-- seqvec_embedder.py: Produces embeddings from protein sequences using SeqVec.
 
-cvxg.py: Implements Cross-Validation with XGBoost for model training.
+-- cvxg.py: Implements Cross-Validation with XGBoost for model training.
 
-mlp.py: Contains code for buliding a cross_validation model using Multilayer perceptron.
+-- mlp.py: Contains code for building a cross-validation model using a Multilayer Perceptron.
 
-lstm.py: contains code for buliding a cross_validation model using Long Short Term Memory model.
+-- lstm.py: Contains code for building a cross-validation model using a Long Short-Term Memory (LSTM) model.
 
-ensemble2.py: Combines predictions from multiple models to create an ensemble for improved accuracy.
+-- ensemble2.py: Combines predictions from multiple models to create an ensemble model for improved accuracy.
 
+The tabular features are extracted using the iFeature package (DOI:10.1093/nar/gkac351). GitHub link: iFeature.
 
 
 
