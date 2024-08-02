@@ -46,17 +46,18 @@ This repository contains the code and resources for predicting protein functions
 
 git clone:** [https://github.com/sathya1007-coder/GO-TERM-PREDICTION.git](url)**
 
-**cd protein-function-prediction**
+** `#ffffff`cd protein-function-prediction**
 
-**Install the necessary dependencies:**
+** `#ffffff`Install the necessary dependencies:**
 
-**pip install -r requirements.txt**
+** `#ffffff`pip install -r requirements.txt**
 
-Run the feature extraction scripts to generate embeddings from protein sequences.
+**i. Run the feature extraction scripts to generate embeddings from protein sequences.
 
-Train the machine learning models using the provided training scripts.
+ii Train the machine learning models using the provided training scripts.
 
-Evaluate the model performance using the evaluation scripts.
+iii Evaluate the model performance using the evaluation scripts.**
+
 
 Author:
 
