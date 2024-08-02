@@ -9,15 +9,21 @@ This repository contains the code and resources for predicting protein functions
 
 Contents:
 
--- Feature Extraction Scripts: Code for extracting feature embeddings from protein sequences using Prot-T5 and ProtBERT language models.
+ProtBert_Embeddings.py: Generates embeddings for protein sequences using the ProtBERT model.
 
--- Machine Learning Models: Implementation of various machine learning models for multi-label classification of protein functions.
+protT5_Embeddings.py: Generates embeddings using the ProtT5 model.
 
--- Ensemble Models: Scripts for developing and optimizing ensemble models to enhance prediction accuracy.
+seqvec_embedder.py: Produces embeddings from protein sequences using SeqVec.
 
--- Data Preprocessing: Tools and methods for preprocessing protein sequence data and engineering tabular features.
+cvxg.py: Implements Cross-Validation with XGBoost for model training.
 
--- Evaluation Metrics: Functions to evaluate model performance using F-measure, precision, and recall.
+mlp.py: Contains code for buliding a cross_validation model using Multilayer perceptron.
+
+lstm.py: contains code for buliding a cross_validation model using Long Short Term Memory model.
+
+ensemble2.py: Combines predictions from multiple models to create an ensemble for improved accuracy.
+
+
 
 
 Usage:
