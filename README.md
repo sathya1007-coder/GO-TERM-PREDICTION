@@ -23,8 +23,9 @@ This repository contains the code and resources for predicting protein functions
 
 **7. ensemble2.py:** Combines predictions from multiple models to create an ensemble model for improved accuracy.
 
-The tabular features are extracted using the **iFeature package [https://doi.org/10.1093/nar/gkac351](url). GitHub link: [https://github.com/Superzchen/iFeature](url).**
 
+****The tabular features are extracted using the **iFeature package [https://doi.org/10.1093/nar/gkac351](url). GitHub link: [https://github.com/Superzchen/iFeature](url).**
+****
 
 
 ****Usage:****
