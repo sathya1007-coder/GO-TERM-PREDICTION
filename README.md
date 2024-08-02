@@ -23,7 +23,7 @@ This repository contains the code and resources for predicting protein functions
 **7. ensemble2.py:** Combines predictions from multiple models to create an ensemble model for improved accuracy.
 
 
- **The tabular features are extracted using the **iFeature package [https://doi.org/10.1093/nar/gkac351](url). GitHub link: [https://github.com/Superzchen/iFeature](url).**
+ The tabular features are extracted using the **iFeature package [https://doi.org/10.1093/nar/gkac351](url). GitHub link: [https://github.com/Superzchen/iFeature](url).**
 
 
 
@@ -43,7 +43,7 @@ This repository contains the code and resources for predicting protein functions
 
 **Clone the repository:**
 
-git clone:** [https://github.com/sathya1007-coder/GO-TERM-PREDICTION.git](url)**
+**git clone:** [https://github.com/sathya1007-coder/GO-TERM-PREDICTION.git](url)
 
 **`cd protein-function-prediction`**
 
@@ -51,11 +51,11 @@ git clone:** [https://github.com/sathya1007-coder/GO-TERM-PREDICTION.git](url)**
 
 **`pip install -r requirements.txt`**
 
-i. Run the feature extraction scripts to generate embeddings from protein sequences.
+**i. Run the feature extraction scripts to generate embeddings from protein sequences.**
 
-ii. Train the machine learning models using the provided training scripts.
+**ii. Train the machine learning models using the provided training scripts.**
 
-iii. Evaluate the model performance using the evaluation scripts.**
+**iii. Evaluate the model performance using the evaluation scripts.**
 
 
 ## Author:
