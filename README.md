@@ -27,6 +27,7 @@ This repository contains the code and resources for predicting protein functions
 **The tabular features are extracted using the **iFeature package [https://doi.org/10.1093/nar/gkac351](url). GitHub link: [https://github.com/Superzchen/iFeature](url).**********
 
 
+
 ****Usage:****
 
 **1. Data Extraction:** Extract multiple Gene Ontology (GO) terms for each protein from the GOA database. Organize them by associating each protein ID with its corresponding list of GO terms.
@@ -36,6 +37,7 @@ This repository contains the code and resources for predicting protein functions
 **3. Model Execution:** The models can be trained and evaluated on each GO aspect (e.g., molecular function, biological process) individually and separately.
 
 **4. Environment Setup:** The codes are designed to run on Google Cloud TPU machines. For optimal performance, use at least Kaggle's TPU resources. Ensure a proper Python environment with the required dependencies installed.
+
 
 
 ****Getting Started****
@@ -58,9 +60,8 @@ Evaluate the model performance using the evaluation scripts.
 
 Author:
 
-**Sathya Narayanan - Bioinformatician
-**
+**Sathya Narayanan - Bioinformatician**
 
-Contact:
+**Contact:**
 
-For any inquiries or collaboration opportunities, please reach out to me via officemailsathya@gmail.com.
+For any inquiries or collaboration opportunities, please reach out to me via[ officemailsathya@gmail.com](url).
